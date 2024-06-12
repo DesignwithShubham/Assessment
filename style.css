@@ -1,0 +1,56 @@
+.Headline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -200px;
+    margin-bottom:-200px ;
+}
+
+.headtext {
+    color: white;
+    text-align: center;
+}
+.bulletpoints {
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.username {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#username {
+    color: white;
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: gray;
+    border: 1px solid;
+    border-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lastname {
+    color: white;
+    width: 400px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: gray;
+    border: 1px solid;
+    border-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
